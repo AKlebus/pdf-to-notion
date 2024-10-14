@@ -10,3 +10,4 @@ This project is for a friend who likes taking notes in notion that have a very s
 - Proper handling of API keys (instead of hardcoding).
 - Better handling of arguments (e.g. argparse).
 - Option of using page titles instead of keys.
+- Options to upload to Notion database.
