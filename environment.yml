@@ -1,0 +1,8 @@
+name: pdf-to-notion
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - poppler
+prefix: /Users/adamklebus/anaconda3/envs/pdf-to-notion
